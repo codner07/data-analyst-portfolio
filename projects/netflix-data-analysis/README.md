@@ -110,11 +110,9 @@ The project includes the following charts:
 ```
 netflix-data-analysis/
 │
-├── data/
-│   └── netflix_titles.csv
+├── netflix_titles.csv
 │
-├── notebook/
-│   └── Netflix_Data_Analysis.ipynb
+├── netflix_data_analysis.ipynb
 │
 ├── images/
 │   ├── movies_vs_tvshows.png
