@@ -148,13 +148,11 @@ pip install pandas matplotlib openpyxl
 
 Example:
 
-```markdown
-![Movies vs TV Shows]
+Movies vs TV Shows
 
-![Top Genres]
+Top Genres
 
-![Ratings Distribution]
-```
+Ratings Distribution
 
 ---
 
