@@ -116,13 +116,11 @@ The dashboard helps answer important business questions such as:
 ## Project Structure
 
 ```
-Superstore-Sales-Dashboard/
+excel-sales-dashboard/
 │
-├── Superstore Sales Dashboard.xlsx
-├── Sample - Superstore.xlsx
+├── Superstore_Analysis_Dashboard.xlsx
 ├── README.md
-└── images/
-    └── dashboard.png
+└── Superstore_Dashboard.pdf
 ```
 
 ---
