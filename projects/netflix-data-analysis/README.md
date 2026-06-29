@@ -144,18 +144,16 @@ pip install pandas matplotlib openpyxl
 
 ---
 
-## 📷 Dashboard / Charts
-
-Add screenshots of your charts inside the `images` folder and display them here.
+## Dashboard / Charts
 
 Example:
 
 ```markdown
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Movies vs TV Shows]
 
-![Top Genres](images/top_genres.png)
+![Top Genres]
 
-![Ratings Distribution](images/ratings_distribution.png)
+![Ratings Distribution]
 ```
 
 ---
